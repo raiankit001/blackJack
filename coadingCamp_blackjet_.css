@@ -1,0 +1,31 @@
+body {
+    background: rgb(0, 125, 12);
+    background: radial-gradient(circle, rgba(0, 125, 12, 1) 46%, rgba(22, 58, 31, 0.9977240896358543) 97%);
+    background-repeat: no-repeat;
+    height: 96vh;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{  
+    color: goldenrod;
+    font-size: 80px;
+}
+p{
+    font-size: 50px;
+    color: white;
+    font-weight: 500;
+}
+#message-el{
+    font-style: italic;
+}
+#btn{
+    padding: 10px 0px;
+    font-size: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: none;
+    width: 300px;
+    background-color: goldenrod;
+}  
+
+
